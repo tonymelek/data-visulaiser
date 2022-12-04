@@ -5,5 +5,8 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <div class="container">
+    <HelloWorld />
+  </div>
+  
 </template>
